@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Source Serif Pro', serif; */
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+span {
+  color: orange;
+}
+
+.text-center {
+  text-align: center;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.flexibal_flex {
+  display: flex;
+}
+
+.half-width {
+  width: 50%;
+}
+
+.misison_img_part img {
+  width: 50%;
+  text-align: center;
+  height: auto;
+  margin-top: 40px;
+
+}
+
+.misiion_vision_part h1 {
+  font-size: 50px;
+  margin-top: 100px;
+  font-family: 'Source Serif Pro', serif;
+  border-left: 5px solid red;
+  padding-left: 12px;
+}
+
+.misiion_vision_part span {
+  color: orange;
+  font-family: 'Source Serif Pro', serif;
+  */
+}
+
+.misiion_vision_part {
+  margin-left: 10%;
+
+}
+
+.misiion_vision_part p {
+  margin-top: 50px;
+  font-size: 20px;
+  padding-right: 40%;
+}
+
+
+.common-button a {
+  padding: 15px 30px;
+  background-color: #FF5959;
+  display: inline-block;
+  border-radius: 10px;
+  font-size: 20px;
+  color: white;
+  margin-top: 20px;
+}
+
+.mission_f p {
+  font-size: 18px;
+}
+
+.mission_part h1 {
+  font-size: 45px;
+  margin-top: 50px;
+}
+
+.mission_service {
+  background-color: #83e1ec;
+}
+
+.service_half {
+  width: 25%;
+  
+}
+.mission_service_part{
+  margin-left: 8%;
+}
+.mission_service {
+  padding: 20px;
+  border-radius: 20px;
+  margin: 20px;
+}
+.pt-50{
+  margin-top: 50px;
+}
+
+.misison_content h3{
+  font-size: 30px;
+  text-align: center;
+}
+
+.misison_icon img{
+  display: block;
+  margin: 0 auto;
+  height: 250px;
+}
+
+.develop_part_font img{
+  width: 500px;
+}
+
+.flexibal_flex_half{
+display: flex;
+}
+
+.develop-part{
+  margin-left: 9%;
+  margin-top: 100px;
+}
+
+.develop_content{
+  margin-left: 100px;
+}
+
+.develop_content h1{
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+
+.develop_content p{
+  margin-right: 30%;
+  
+}
+
+.develop_part_two img{
+  height: 500px;
+  margin-right: 300px;
+}
+
+footer{
+  background-color: black;
+}
+
+footer h1{
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+
+}
+
+footer p{
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+footer{
+  margin-top: 100px;
+}
